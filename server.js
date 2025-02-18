@@ -6,7 +6,7 @@ const usersRouter=require('./app/routers/usersRouter')
 app.use(express.json());
 
 //ruta
-app.use("/api", usersRouter);
+app.use("/api", usersRoutq2er);
 
 //configuracion puerto
 const PORT = process.env.PORT;
