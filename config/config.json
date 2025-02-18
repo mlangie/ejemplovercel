@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "ATFNZRIqiYRHpeFsVCyYTskbuBGFMFAe",
+    "database": "railway",
+    "host": "shinkansen.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port":15546
+  },
+  "test": {
+    "username": "root",
+    "password": "ATFNZRIqiYRHpeFsVCyYTskbuBGFMFAe",
+    "database": "railway",
+    "host": "shinkansen.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port":15546
+  },
+  "production": {
+    "username": "root",
+    "password": "ATFNZRIqiYRHpeFsVCyYTskbuBGFMFAe",
+    "database": "railway",
+    "host": "shinkansen.proxy.rlwy.net",
+    "dialect": "mysql",
+    "port":15546
+  }
+}
+
